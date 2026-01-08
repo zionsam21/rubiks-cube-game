@@ -31,3 +31,11 @@ rubiks-cube-game/
 ├── style.css # Styling and 3D cube design
 ├── script.js # Cube rotation logic
 └── README.md # Project documentation
+
+🎯 Learning Objectives
+This project helped me practice:
+-CSS 3D space and transformations
+- DOM manipulation
+- UI layout and responsiveness
+- Structuring front-end projects
+- Using Git and GitHub
